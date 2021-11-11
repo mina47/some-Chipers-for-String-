@@ -167,18 +167,9 @@ public class VigenereBreaker {
        //System.out.println("Valid words with key 57  "+countwords(Set,message)+"\n"+message.substring(0,100));
        //System.out.println("Valid words with key 38  "+HowManyVaildWords(Set,encrypted,38));
       // System.out.println("The real words in message is  "+SSS.get(message) );
-        // String message=fr.asString();
-       //int [] keys =tryKeyLength(message,4,'e');
-      // int[] keys ={3,20,10,4};
        //VigenereCipher veg =new VigenereCipher(keys);
        //String answer = veg.decrypt(message);
        //System.out.println(answer);
-       //for(int key :keys)
-       //{
-         //  System.out.println(key);
-        //}
-       //System.out.println(sliceString("abcdefghijklm", 4, 5));
-       // System.out.println(keys);
         
         
         
